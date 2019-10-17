@@ -606,6 +606,7 @@ b, strong {
     text-align:center;
     max-width:360px;
     margin:0 auto;
+        height: 445px;
 }
 .feature-box i {
     font-size:5em;
